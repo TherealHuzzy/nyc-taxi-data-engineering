@@ -288,6 +288,19 @@ This project demonstrates practical experience with:
 
 ---
 
+# ✅ Key Results
+
+- Built an end-to-end ETL pipeline using Databricks and PySpark
+- Implemented the Medallion Architecture (Bronze, Silver, Gold)
+- Processed NYC Yellow Taxi trip data stored in Delta Lake
+- Automated pipeline execution using Databricks Workflows
+- Added automated data quality validation
+- Created an interactive Databricks SQL dashboard
+- Implemented Continuous Integration using GitHub Actions
+- Version-controlled the project using Git and GitHub
+
+---
+
 # 🔮 Future Improvements
 
 Potential enhancements include:
