@@ -224,8 +224,6 @@ The workflow executes automatically according to the configured schedule.
 
 # 📊 Dashboard
 
-![Dashboard](docs/dashboard.png)
-
 The Databricks SQL Dashboard provides business insights including:
 
 - Total Trips
